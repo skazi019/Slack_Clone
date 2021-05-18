@@ -1,0 +1,4 @@
+OOps concepts
+Frontend - flutter/react.js
+backend - django
+database - mongodb
